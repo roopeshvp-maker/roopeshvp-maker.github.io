@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:roopeshvp-maker.github.io",
+  "assertionMethod": [
+    {
+      "id": "did:web:roopeshvp-maker.github.io#a8629bad094048b2e550780cab94a531d6aaf835f3e3780bcad81a64563533c9",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:roopeshvp-maker.github.io",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "IWH0hSQAOf8ygRr0j1xeETn8qm9gqeVk18H6DQE5CDU=",
+        "y": "QD-MsqNlybwRk-Istfkc2_w3h8jNsrtNCdVozKPI750=",
+        "kid": "a8629bad094048b2e550780cab94a531d6aaf835f3e3780bcad81a64563533c9",
+        "alg": "ES256"
+      }
+    }
+  ]
+}
