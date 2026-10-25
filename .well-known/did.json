@@ -6,15 +6,15 @@
   "id": "did:web:roopeshvp-maker.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:roopeshvp-maker.github.io#a8629bad094048b2e550780cab94a531d6aaf835f3e3780bcad81a64563533c9",
+      "id": "did:web:roopeshvp-maker.github.io#95710405670cf57a090ef6d87d190ca4866d6a5d47e8402058461d683b226f01",
       "type": "JsonWebKey2020",
       "controller": "did:web:roopeshvp-maker.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "IWH0hSQAOf8ygRr0j1xeETn8qm9gqeVk18H6DQE5CDU=",
-        "y": "QD-MsqNlybwRk-Istfkc2_w3h8jNsrtNCdVozKPI750=",
-        "kid": "a8629bad094048b2e550780cab94a531d6aaf835f3e3780bcad81a64563533c9",
+        "x": "6UPBh-zK2_iwHrqQj5KddTP7_3DXkfiCU4s3VJSxMmo=",
+        "y": "Cr1KBFkl1dTGSWffkKO5AS9Z9zYzk-qti8mda9TX0FY=",
+        "kid": "95710405670cf57a090ef6d87d190ca4866d6a5d47e8402058461d683b226f01",
         "alg": "ES256"
       }
     }
